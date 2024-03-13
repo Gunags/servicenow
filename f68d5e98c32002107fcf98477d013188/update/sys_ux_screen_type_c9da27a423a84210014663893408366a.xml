@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Dashboard Library</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 07:22:03</sys_created_on>
+        <sys_id>c9da27a423a84210014663893408366a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard Library</sys_name>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_update_name>sys_ux_screen_type_c9da27a423a84210014663893408366a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 07:22:03</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=c9da27a423a84210014663893408366a"/>
+</record_update>

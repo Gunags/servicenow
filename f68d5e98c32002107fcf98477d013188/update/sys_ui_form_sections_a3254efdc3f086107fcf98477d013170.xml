@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a3254efdc3f086107fcf98477d013170" sys_domain="global" table="x_1309396_safty_issue" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-08 07:26:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63254efdc3f086107fcf98477d0131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1309396_safty_issue" name="x_1309396_safty_issue" sys_domain="global" view="Default view">a3254efdc3f086107fcf98477d013170</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1309396_safty_issue" sys_domain="global" view="Default view">f6ae7830c36082107fcf98477d01314f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-08 07:26:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-08 07:26:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef254efdc3f086107fcf98477d0131e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1309396_safty_issue" name="x_1309396_safty_issue" sys_domain="global" view="Default view">a3254efdc3f086107fcf98477d013170</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1309396_safty_issue" sys_domain="global" view="Default view">2b254efdc3f086107fcf98477d01316e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-08 07:26:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1309396_safty_issue</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-08 07:26:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3254efdc3f086107fcf98477d013170</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1309396_safty_issue</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a3254efdc3f086107fcf98477d013170</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-08 07:26:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

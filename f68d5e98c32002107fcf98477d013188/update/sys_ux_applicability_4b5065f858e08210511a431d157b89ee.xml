@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1309396_safty.Public</api_name>
+        <description/>
+        <name>Public</name>
+        <role_names/>
+        <roles name="public">b0593b350a0a0aa7001d689e4542dc28</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-02-21 15:55:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4b5065f858e08210511a431d157b89ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Public</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_update_name>sys_ux_applicability_4b5065f858e08210511a431d157b89ee</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-21 15:55:34</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

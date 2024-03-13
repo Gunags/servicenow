@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>45da27a46ba84210788aa39df701c880</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>safty</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 07:22:03</sys_created_on>
+        <sys_id>49da27a4efa842108b3f0c6fb117517f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safty</sys_name>
+        <sys_package display_value="Safty" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safty">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_update_name>sys_ux_page_registry_49da27a4efa842108b3f0c6fb117517f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 07:22:03</sys_updated_on>
+        <title>Safty</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">f68d5e98c32002107fcf98477d013188</application>
+        <file_path/>
+        <instance_id>ce2b8ee91bc5091032182f8dee4bcb1b</instance_id>
+        <instance_name>dev121390</instance_name>
+        <name>sys_ux_page_registry_49da27a4efa842108b3f0c6fb117517f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>45da27a46ba84210788aa39df701c880</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>safty</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-21 07:22:03</sys_created_on><sys_id>49da27a4efa842108b3f0c6fb117517f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Safty</sys_name><sys_package display_value="Safty" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package><sys_policy/><sys_scope display_value="Safty">f68d5e98c32002107fcf98477d013188</sys_scope><sys_update_name>sys_ux_page_registry_49da27a4efa842108b3f0c6fb117517f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-21 07:22:03</sys_updated_on><title>Safty</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>526018966</payload_hash>
+        <record_name>Safty</record_name>
+        <reverted_from/>
+        <source>b2d9e720c31002107fcf98477d01311a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-02-08 21:02:04</sys_created_on>
+        <sys_id>276a7cb8c32082107fcf98477d0131bb</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18d8a8710e00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>e36a7cb89b2082101233c2efa9ae1ebb</update_guid>
+        <update_guid_history>e36a7cb89b2082101233c2efa9ae1ebb:526018966</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 13:09:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>416451877de04400bf8e609b10440000</sys_id>
+        <sys_metadata>49da27a4efa842108b3f0c6fb117517f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safty</sys_name>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_scope_delete display_value="">16153da4cb9b4144957d55ff1fa36569</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_49da27a4efa842108b3f0c6fb117517f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_49da27a4efa842108b3f0c6fb117517f">276a7cb8c32082107fcf98477d0131bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 13:09:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

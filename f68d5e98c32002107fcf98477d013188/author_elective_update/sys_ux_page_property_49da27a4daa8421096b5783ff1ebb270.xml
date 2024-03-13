@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="">49da27a4efa842108b3f0c6fb117517f</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 07:22:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>49da27a4daa8421096b5783ff1ebb270</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Safty" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safty">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_update_name>sys_ux_page_property_49da27a4daa8421096b5783ff1ebb270</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 07:22:03</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1309396_safty.49da27a4efa842108b3f0c6fb117517f.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">f68d5e98c32002107fcf98477d013188</application>
+        <file_path/>
+        <instance_id>ce2b8ee91bc5091032182f8dee4bcb1b</instance_id>
+        <instance_name>dev121390</instance_name>
+        <name>sys_ux_page_property_49da27a4daa8421096b5783ff1ebb270</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="">49da27a4efa842108b3f0c6fb117517f</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-21 07:22:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>49da27a4daa8421096b5783ff1ebb270</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="Safty" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package><sys_policy/><sys_scope display_value="Safty">f68d5e98c32002107fcf98477d013188</sys_scope><sys_update_name>sys_ux_page_property_49da27a4daa8421096b5783ff1ebb270</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-21 07:22:03</sys_updated_on><type>json</type><unique_name>x_1309396_safty.49da27a4efa842108b3f0c6fb117517f.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>2134463840</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>b2d9e720c31002107fcf98477d01311a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-02-08 21:02:04</sys_created_on>
+        <sys_id>a76a7cb8c32082107fcf98477d0131f5</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18d8a8710e00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>676a7cb8d520821069bb892856078df5</update_guid>
+        <update_guid_history>676a7cb8d520821069bb892856078df5:2134463840</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 13:09:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>21a1a8b93e9244569282852626fadd44</sys_id>
+        <sys_metadata>49da27a4daa8421096b5783ff1ebb270</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_scope_delete display_value="">16153da4cb9b4144957d55ff1fa36569</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_49da27a4daa8421096b5783ff1ebb270</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_49da27a4daa8421096b5783ff1ebb270">a76a7cb8c32082107fcf98477d0131f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 13:09:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1309396_safty.Audience for app safty</api_name>
+        <description/>
+        <name>Audience for app safty</name>
+        <role_names/>
+        <roles>f28d5e98c32002107fcf98477d013190,0b8d5e98c32002107fcf98477d013195</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 07:22:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ada67a4c3a842107fcf98477d013181</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app safty</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safty" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safty">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_update_name>sys_ux_applicability_4ada67a4c3a842107fcf98477d013181</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 07:22:05</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">f68d5e98c32002107fcf98477d013188</application>
+        <file_path/>
+        <instance_id>ce2b8ee91bc5091032182f8dee4bcb1b</instance_id>
+        <instance_name>dev121390</instance_name>
+        <name>sys_ux_applicability_4ada67a4c3a842107fcf98477d013181</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1309396_safty.Audience for app safty</api_name><description/><name>Audience for app safty</name><role_names/><roles>f28d5e98c32002107fcf98477d013190,0b8d5e98c32002107fcf98477d013195</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-21 07:22:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4ada67a4c3a842107fcf98477d013181</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app safty</sys_name><sys_overrides/><sys_package display_value="Safty" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package><sys_policy/><sys_scope display_value="Safty">f68d5e98c32002107fcf98477d013188</sys_scope><sys_update_name>sys_ux_applicability_4ada67a4c3a842107fcf98477d013181</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-21 07:22:05</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>967476471</payload_hash>
+        <record_name>Audience for app safty</record_name>
+        <reverted_from/>
+        <source>3a8d5e98c32002107fcf98477d01318c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 07:22:05</sys_created_on>
+        <sys_id>42da67a4c3a842107fcf98477d013184</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dca8b07210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 07:22:05</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>06da67a4e7a842106a6eadb55f617e83</update_guid>
+        <update_guid_history>06da67a4e7a842106a6eadb55f617e83:967476471</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 13:09:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>1e4330b6589743ca85e1ccb01f84a2c4</sys_id>
+        <sys_metadata>4ada67a4c3a842107fcf98477d013181</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app safty</sys_name>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_scope_delete display_value="">16153da4cb9b4144957d55ff1fa36569</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_4ada67a4c3a842107fcf98477d013181</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_4ada67a4c3a842107fcf98477d013181">42da67a4c3a842107fcf98477d013184</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 13:09:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

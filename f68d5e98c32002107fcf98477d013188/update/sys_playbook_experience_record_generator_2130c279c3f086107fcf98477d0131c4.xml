@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_playbook_experience_record_generator">
+    <sys_playbook_experience_record_generator action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <create_record_activity_name>Create Phishing Interaction Record</create_record_activity_name>
+        <create_record_form_view display_value="Default view" name="NULL">Default view</create_record_form_view>
+        <order>200</order>
+        <process_definition display_value="Phishing Instructions">a97bb5b1c3f086107fcf98477d013179</process_definition>
+        <sys_class_name>sys_playbook_experience_record_generator</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 07:08:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>2130c279c3f086107fcf98477d0131c4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>interaction</sys_name>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_update_name>sys_playbook_experience_record_generator_2130c279c3f086107fcf98477d0131c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 08:07:33</sys_updated_on>
+        <table>interaction</table>
+        <template_fields>short_description=Phishing Interaction:^type=chat^state=new^EQ</template_fields>
+    </sys_playbook_experience_record_generator>
+</record_update>

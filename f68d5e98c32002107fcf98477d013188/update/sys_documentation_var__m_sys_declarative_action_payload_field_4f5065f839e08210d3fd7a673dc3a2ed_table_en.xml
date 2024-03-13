@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table" label="table" language="en" table="var__m_sys_declarative_action_payload_field_4f5065f839e08210d3fd7a673dc3a2ed">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <help/>
+            <hint/>
+            <label>table</label>
+            <language>en</language>
+            <name>var__m_sys_declarative_action_payload_field_4f5065f839e08210d3fd7a673dc3a2ed</name>
+            <plural>table</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-02-21 15:55:33</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table</sys_name>
+            <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_declarative_action_payload_field_4f5065f839e08210d3fd7a673dc3a2ed_table_en</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-02-21 15:55:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

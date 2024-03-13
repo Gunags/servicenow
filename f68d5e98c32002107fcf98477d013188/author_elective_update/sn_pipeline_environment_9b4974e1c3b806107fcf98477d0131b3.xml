@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="DELETE">
+        <instance_credential display_value="sn_cicd_spoke.CICD">752a91887740001038e286a2681061fb</instance_credential>
+        <instance_id>ce2b8ee91bc5091032182f8dee4bcb1b</instance_id>
+        <instance_type>dev</instance_type>
+        <instance_url>https://dev121390.service-now.com/</instance_url>
+        <is_controller>false</is_controller>
+        <name>Safety-Dev</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-07 07:18:24</sys_created_on>
+        <sys_id>9b4974e1c3b806107fcf98477d0131b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety-Dev</sys_name>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_update_name>sn_pipeline_environment_9b4974e1c3b806107fcf98477d0131b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-07 07:18:24</sys_updated_on>
+    </sn_pipeline_environment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">f68d5e98c32002107fcf98477d013188</application>
+        <file_path/>
+        <instance_id>ce2b8ee91bc5091032182f8dee4bcb1b</instance_id>
+        <instance_name>dev121390</instance_name>
+        <name>sn_pipeline_environment_9b4974e1c3b806107fcf98477d0131b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment"><sn_pipeline_environment action="INSERT_OR_UPDATE"><instance_credential display_value="sn_cicd_spoke.CICD">752a91887740001038e286a2681061fb</instance_credential><instance_id>ce2b8ee91bc5091032182f8dee4bcb1b</instance_id><instance_type>dev</instance_type><instance_url>https://dev121390.service-now.com/</instance_url><is_controller>false</is_controller><name>Safety-Dev</name><sys_class_name>sn_pipeline_environment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-07 07:18:24</sys_created_on><sys_id>9b4974e1c3b806107fcf98477d0131b3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Safety-Dev</sys_name><sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package><sys_policy/><sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope><sys_update_name>sn_pipeline_environment_9b4974e1c3b806107fcf98477d0131b3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-07 07:18:24</sys_updated_on></sn_pipeline_environment></record_update>]]></payload>
+        <payload_hash>-1519720286</payload_hash>
+        <record_name>Safety-Dev</record_name>
+        <reverted_from/>
+        <source>3a8d5e98c32002107fcf98477d01318c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-07 07:18:24</sys_created_on>
+        <sys_id>1ed93025c3b806107fcf98477d013195</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e17c70bf70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-07 07:18:24</sys_updated_on>
+        <type>Environment</type>
+        <update_guid>12d93025d8b806109a106c1aeb974095</update_guid>
+        <update_guid_history>12d93025d8b806109a106c1aeb974095:-1519720286</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Safety-Dev">280b61e1c3bc06107fcf98477d013125</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-07 10:53:11</sys_created_on>
+        <sys_db_object display_value="" name="sn_pipeline_environment">sn_pipeline_environment</sys_db_object>
+        <sys_id>4dd8b42b52ec44bbacd310ba56e142b1</sys_id>
+        <sys_metadata>9b4974e1c3b806107fcf98477d0131b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety-Dev</sys_name>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_scope_delete display_value="">16153da4cb9b4144957d55ff1fa36569</sys_scope_delete>
+        <sys_update_name>sn_pipeline_environment_9b4974e1c3b806107fcf98477d0131b3</sys_update_name>
+        <sys_update_version display_value="sn_pipeline_environment_9b4974e1c3b806107fcf98477d0131b3">1ed93025c3b806107fcf98477d013195</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-07 10:53:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

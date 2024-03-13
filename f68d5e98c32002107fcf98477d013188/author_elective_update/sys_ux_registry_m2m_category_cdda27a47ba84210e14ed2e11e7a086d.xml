@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <order/>
+        <page_registry display_value="">49da27a4efa842108b3f0c6fb117517f</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 07:22:03</sys_created_on>
+        <sys_id>cdda27a47ba84210e14ed2e11e7a086d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safty" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safty">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_cdda27a47ba84210e14ed2e11e7a086d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 07:22:03</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">f68d5e98c32002107fcf98477d013188</application>
+        <file_path/>
+        <instance_id>ce2b8ee91bc5091032182f8dee4bcb1b</instance_id>
+        <instance_name>dev121390</instance_name>
+        <name>sys_ux_registry_m2m_category_cdda27a47ba84210e14ed2e11e7a086d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><order/><page_registry display_value="">49da27a4efa842108b3f0c6fb117517f</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-21 07:22:03</sys_created_on><sys_id>cdda27a47ba84210e14ed2e11e7a086d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Safty" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package><sys_policy/><sys_scope display_value="Safty">f68d5e98c32002107fcf98477d013188</sys_scope><sys_update_name>sys_ux_registry_m2m_category_cdda27a47ba84210e14ed2e11e7a086d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-21 07:22:03</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>-125318097</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b2d9e720c31002107fcf98477d01311a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-02-08 21:02:04</sys_created_on>
+        <sys_id>636a7cb8c32082107fcf98477d0131c2</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18d8a8710e00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application Category M2M</type>
+        <update_guid>236a7cb8d2208210341e1ab2cefa1bc2</update_guid>
+        <update_guid_history>236a7cb8d2208210341e1ab2cefa1bc2:-125318097</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 13:09:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>78852562baea41d5934234670d25d409</sys_id>
+        <sys_metadata>cdda27a47ba84210e14ed2e11e7a086d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1309396_safty">f68d5e98c32002107fcf98477d013188</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">f68d5e98c32002107fcf98477d013188</sys_scope>
+        <sys_scope_delete display_value="">16153da4cb9b4144957d55ff1fa36569</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_cdda27a47ba84210e14ed2e11e7a086d</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_cdda27a47ba84210e14ed2e11e7a086d">636a7cb8c32082107fcf98477d0131c2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 13:09:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
